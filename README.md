@@ -6,12 +6,19 @@
 Python, Rust, Java, TypeScript, Kotlin, Go
 
 Библиотеки и фреймворки по языкам:
+
 Python: AsyncIO, FastAPI, AIOgram, Django, SQL Alchemy
+
 Rust: Tokio, Actix-web, Acxum, serde, SQLx, Druid, Tauri, Diesel, SeaORM
+
 Java: Spring, Hibernate
+
 TypeScript/JavaScript: React, NextJS
+
 Kotlin: Jetpack Compose
+
 Go: Gin
+
 
 🔒 **Текущий фокус**: разработка на **Rust** в доменах **информационной безопасности** и **Web3**.
 
